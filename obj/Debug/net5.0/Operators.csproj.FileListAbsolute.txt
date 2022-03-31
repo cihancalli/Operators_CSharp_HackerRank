@@ -1,0 +1,15 @@
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/Operators/obj/Debug/net5.0/Operators.csproj.AssemblyReference.cache
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/Operators/obj/Debug/net5.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/Operators/obj/Debug/net5.0/Operators.AssemblyInfoInputs.cache
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/Operators/obj/Debug/net5.0/Operators.AssemblyInfo.cs
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/Operators/obj/Debug/net5.0/Operators.csproj.CoreCompileInputs.cache
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/Operators/bin/Debug/net5.0/Operators.deps.json
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/Operators/bin/Debug/net5.0/Operators.runtimeconfig.json
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/Operators/bin/Debug/net5.0/Operators.runtimeconfig.dev.json
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/Operators/bin/Debug/net5.0/Operators.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/Operators/bin/Debug/net5.0/ref/Operators.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/Operators/bin/Debug/net5.0/Operators.pdb
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/Operators/obj/Debug/net5.0/Operators.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/Operators/obj/Debug/net5.0/ref/Operators.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/Operators/obj/Debug/net5.0/Operators.pdb
+/Users/cihancalli/Desktop/yazilim-egitimi/HackerRank/C#/Operators/obj/Debug/net5.0/Operators.genruntimeconfig.cache
